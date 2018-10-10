@@ -1,0 +1,23 @@
+
+{
+  "name": "react-native-sensors-analytics",
+  "private": false,
+  "version": "0.0.1",
+  "description": "神策 React-native-SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "神策",
+    "sensors"
+  ],
+  "author": "Ninnka",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+
+  }
+}
