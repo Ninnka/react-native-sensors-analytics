@@ -2,7 +2,7 @@
 {
   "name": "react-native-sensors-analytics",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "神策 React-native-SDK",
   "main": "index.js",
   "scripts": {
@@ -14,10 +14,5 @@
     "sensors"
   ],
   "author": "Ninnka",
-  "license": "MIT",
-  "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
-
-  }
+  "license": "MIT"
 }
