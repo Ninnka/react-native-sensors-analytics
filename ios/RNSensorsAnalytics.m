@@ -9,7 +9,7 @@
 #import "RNSensorsAnalytics.h"
 #import <React/RCTBridge.h>
 #import <React/RCTEventDispatcher.h>
-#import "SensorsAnalyticsSDK.h"
+#import "SensorsAnalyticsSDK/SensorsAnalyticsSDK.h"
 
 #define MODULE_VERSION @"1.0.0"
 
